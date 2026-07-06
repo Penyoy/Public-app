@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria Guild",
+  "description": "Vibrant community app for Aetheria Realm featuring login, profiles, discussion forums, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
